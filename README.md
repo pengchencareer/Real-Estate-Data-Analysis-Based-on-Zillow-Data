@@ -1,2 +1,2 @@
 # Real-Estate-Data-Analysis-Based-on-Zillow-Data
-this is Real Estate project readme file.
+this Real Estate Project is only for my own investing instruction purpose.
